@@ -1,5 +1,4 @@
 # Lie-Detection-Projects
 Lie Detection using EEG Signals  and Deep learning
-The overall research design employed in the study consists of three main stages: Data acquisition, preprocessing, and classification. In the first stage, EEG data were obtained from 27 subjects, and the LieWaves dataset was created. The second stage involved preprocessing the data, which included applying outlier detection. Finally, in the third stage, classification was carried out using CNN, LSTM, ANN, and SVM algorithms, and the performance of the classifiers was evaluated using accuracy metrics.
-The chosen research design was justified based on its suitability for investigating lie detection using EEG technology. EEG signals are complex and require careful handling to extract meaningful information. The design incorporated methods for artifact removal and classification, all of which are essential steps for analyzing EEG data. Additionally, the use of deep learning algorithms such as CNN, LSTM, and ANN allows for the exploration of complex patterns in the data, which is particularly relevant for detecting deception. Overall, the research design, was comprehensive and tailored to address the specific challenges associated with lie detection using EEG technology, making it a suitable choice for the study. 
+
 
